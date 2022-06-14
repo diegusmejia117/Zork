@@ -41,6 +41,8 @@ Press 0 to quit
 
 MAP
 
+Please refer to the MAP.png image located in the repository.
+
 
 
 
