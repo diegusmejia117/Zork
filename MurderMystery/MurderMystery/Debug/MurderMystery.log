@@ -1,0 +1,9 @@
+﻿  Entity.cpp
+D:\Personal\MasterBarcelona\MurderMysteryGame\MurderMystery\MurderMystery\Inventory.h(19,24): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+D:\Personal\MasterBarcelona\MurderMysteryGame\MurderMystery\MurderMystery\Inventory.h(19,24): warning C4018: '<': signed/unsigned mismatch
+D:\Personal\MasterBarcelona\MurderMysteryGame\MurderMystery\MurderMystery\Main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  World.cpp
+D:\Personal\MasterBarcelona\MurderMysteryGame\MurderMystery\MurderMystery\Inventory.h(19,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MurderMystery.vcxproj -> D:\Personal\MasterBarcelona\MurderMysteryGame\MurderMystery\Debug\MurderMystery.exe
