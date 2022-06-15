@@ -20,6 +20,11 @@ Thank you for your time.
 
 Hope you enjoy Nocturnal(i know it needs a better name, hehe).
 
+
+Created by DIEGO MEJIA
+License URL: https://github.com/diegusmejia117/Zork/blob/main/LICENSE
+Repository URL: https://github.com/diegusmejia117/Zork
+
 GUIDE
 
 Welcome to Nocturnal
